@@ -1,0 +1,34 @@
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\bin\Debug\net6.0-windows\POOCLASE2.exe
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\bin\Debug\net6.0-windows\POOCLASE2.deps.json
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\bin\Debug\net6.0-windows\POOCLASE2.runtimeconfig.json
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\bin\Debug\net6.0-windows\POOCLASE2.dll
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\bin\Debug\net6.0-windows\POOCLASE2.pdb
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.csproj.AssemblyReference.cache
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.Form1.resources
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.csproj.GenerateResource.cache
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.AssemblyInfoInputs.cache
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.AssemblyInfo.cs
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.dll
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\refint\POOCLASE2.dll
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.pdb
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.genruntimeconfig.cache
+C:\Users\Desarrollo-SITR13\source\repos\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\ref\POOCLASE2.dll
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\bin\Debug\net6.0-windows\POOCLASE2.exe
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\bin\Debug\net6.0-windows\POOCLASE2.deps.json
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\bin\Debug\net6.0-windows\POOCLASE2.runtimeconfig.json
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\bin\Debug\net6.0-windows\POOCLASE2.dll
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\bin\Debug\net6.0-windows\POOCLASE2.pdb
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.csproj.AssemblyReference.cache
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.Form1.resources
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.csproj.GenerateResource.cache
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.AssemblyInfoInputs.cache
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.AssemblyInfo.cs
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.csproj.CoreCompileInputs.cache
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.dll
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\refint\POOCLASE2.dll
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.pdb
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\POOCLASE2.genruntimeconfig.cache
+C:\Users\Dacia Espinoza\Downloads\POOCLASE2\POOCLASE2\POOCLASE2\obj\Debug\net6.0-windows\ref\POOCLASE2.dll
